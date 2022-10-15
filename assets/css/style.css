@@ -1,0 +1,50 @@
+.education {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 250px;
+    width: 100%;
+    background-image: url("../images/bookstoleft.avif");
+    font-weight: bold;
+}
+
+body {
+    background-image: url("../images/abpink.avif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+
+  .menu   {
+    background-image: url("../images/pinksunset.avif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: teal;
+  }
+
+  .nav-link span {
+    color: teal;
+    font-weight: bolder;
+    font-size: large;
+    text-shadow: 1px 1px 3px  rgb(17, 15, 15);
+  }
+
+  div .carousel {
+    margin:25%;
+    padding: 0;
+  }
+
+  button  {
+   transform-origin: 50% bottom;
+  }
+
+
+  div #carouselExampleCaptions {
+    width: 15cm;
+    padding: 5%;
+  }
+
+  #carouselExampleCaptions {
+    margin-top: 5%;
+  }
