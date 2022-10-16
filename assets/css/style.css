@@ -48,3 +48,7 @@ body {
   #carouselExampleCaptions {
     margin-top: 5%;
   }
+
+  .col .container {
+    font-size: medium;
+  }
