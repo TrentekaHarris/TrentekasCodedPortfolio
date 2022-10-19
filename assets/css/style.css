@@ -71,6 +71,7 @@ aside.free {
   float: left;
   width: fit-content;
   height: fit-content;
+  box-shadow: none;
 }
 #aboutme {
   margin: 5%;
@@ -79,5 +80,5 @@ aside.free {
 
 .bg-image{
   background-image: url('../images/workhardanywhere.avif'); 
-  height: 65vh;
+  height: 50vh;
 }
