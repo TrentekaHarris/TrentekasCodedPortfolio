@@ -1,58 +1,57 @@
-
 .education {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    height: 300px;
-    width: 115%;
-    background-image: url("../images/bookstoleft.avif");
-    font-weight: bold;
-    margin: 0 auto;
-    text-shadow: 1px 1px 3px  rgb(17, 15, 15);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 300px;
+  width: 115%;
+  background-image: url("../images/bookstoleft.avif");
+  font-weight: bold;
+  margin: 0 auto;
+  text-shadow: 1px 1px 3px rgb(17, 15, 15);
 
 }
 
 body {
-    background-image: url("../images/abpink.avif");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-  }
+  background-image: url("../images/abpink.avif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
 
-  .menu   {
-    background-image: url("../images/pinksunset.avif");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+.menu {
+  background-image: url("../images/pinksunset.avif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 
-    color: teal;
+  color: teal;
 
-  }
+}
 
-  .nav-link span {
-    color: teal;
-    font-weight: bolder;
-    font-size: large;
-    text-shadow: 1px 1px 3px  rgb(17, 15, 15);
-  }
+.nav-link span {
+  color: teal;
+  font-weight: bolder;
+  font-size: large;
+  text-shadow: 1px 1px 3px rgb(17, 15, 15);
+}
 
-  div .carousel {
-    margin:25%;
-    padding: 0;
-  }
+div .carousel {
+  margin: 25%;
+  padding: 0;
+}
 
-  button  {
-   transform-origin: 50% bottom;
-  }
+button {
+  transform-origin: 50% bottom;
+}
 
 
-  div #carouselExampleCaptions {
-    width: 15cm;
-    padding: 5%;
-  }
+div #carouselExampleCaptions {
+  width: 15cm;
+  padding: 5%;
+}
 
-  #carouselExampleCaptions {
-    margin-top: 5%;
-  }
+#carouselExampleCaptions {
+  margin-top: 5%;
+}
 
 #certnames {
   font-size: larger;
@@ -74,13 +73,15 @@ aside.free {
   height: fit-content;
   box-shadow: none;
 }
+
 #aboutme {
   margin: 5%;
   padding-bottom: 5%;
 }
 
-.bg-image{
-  background-image: url('../images/workhardanywhere.avif'); 
+.bg-image {
+  background-image: url('../images/workhardanywhere.avif');
+  background-repeat: repeat;
   height: 50vh;
 }
 
