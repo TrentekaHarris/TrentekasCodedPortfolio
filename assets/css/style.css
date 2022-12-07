@@ -79,10 +79,18 @@ aside.free {
   padding-bottom: 5%;
 }
 
+.master {
+  max-width: 1200px;
+}
+
 .bg-image {
   background-image: url('../images/workhardanywhere.avif');
-  background-repeat: repeat;
+  background-position: fixed;
   height: 50vh;
+  
+  background-origin: content-box;
+   background-repeat: repeat;
+
 }
 
 footer a {
