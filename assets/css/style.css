@@ -16,12 +16,13 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  
+
 }
 
 .menu {
   background-image: url("../images/pinksunset.avif");
   background-repeat: no-repeat;
-  background-attachment: fixed;
 
   color: teal;
 
@@ -86,8 +87,7 @@ aside.free {
 .bg-image {
   background-image: url('../images/workhardanywhere.avif');
   background-position: fixed;
-  height: 50vh;
-  
+  height: 40vh;
   background-origin: content-box;
    background-repeat: repeat;
 
