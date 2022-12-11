@@ -16,14 +16,16 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  min-width: 75%;
   
 
 }
 
 .menu {
   background-image: url("../images/pinksunset.avif");
-  background-repeat: no-repeat;
-
+  background-repeat: repeat;
+  background-size: cover;
+  height: 100% !important;
   color: teal;
 
 }
@@ -78,10 +80,14 @@ aside.free {
 #aboutme {
   margin: 5%;
   padding-bottom: 5%;
+  min-width: 60%;
+  
 }
 
 .master {
   max-width: 1200px;
+ 
+  flex-wrap: wrap;
 }
 
 .bg-image {
