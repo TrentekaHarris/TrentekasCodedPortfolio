@@ -19,7 +19,9 @@ A collection of my works coded by me. Within it you will also find information a
 
 This portfolio was created to showcase my coding skills within JavaScript, Bootstrap, HTML, CSS, and Salesforce. 
 
-
+![Trenteka's Coded Portfolio Snapshot](/
+TrentekasCodedPortfolio
+/assets/images/PortfolioSnapshot.png?raw=true "Portfolio Snapshot")
 ## Usage
 
 You can click on the links within the page to go to the websites and view my projects.
